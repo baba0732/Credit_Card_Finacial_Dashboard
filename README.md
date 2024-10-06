@@ -8,7 +8,7 @@ performance metrics and trends,
 enabling stakeholders to monitor
 and analyze credit card operations
 effectively.
-2. steps_____________________________________________________________
+steps_____________________________________________________________
 1. Project objective
 2. Data from SQL
 3. Data processing & DAX
