@@ -14,6 +14,7 @@ steps_____________________________________________________________
 3. Data processing & DAX
 4. Dashboard & insights
 3. insights__________________________________________________________
+
  • Overall revenue is 57M
 • Total interest is 8M
 • Total transaction amount is 46M
